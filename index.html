@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Grocery List</title>
+    <link rel="stylesheet" href="./css/bootstrap.min.css">
+    <link rel="stylesheet" href="./css/style.css">
+   <script>
+    
+
+     function showtb(){
+      document.getElementById('table').style.visibility="visible";
+     }
+     function hidetb(el){
+      document.getElementById('table').style.visibility="hidden";
+     }
+   </script>
+    
+
+</head>
+
+
+<body onload="hidetb()">
+  <center><button class="btn btn-success" onclick="ajax();showtb();">My Grocery List!</button></center>
+
+    <table class="table table-hover" id ="table" border="2">
+        <thead id="head">
+          <tr>
+        
+            <th>Serial No</th>
+            <th>Name</th>
+            <th>Quantity</th>
+            <th>Unit</th>
+            <th>Dept</th>
+            <th>Notes</th>
+          </tr>
+        </thead>
+        <tbody id="body">
+          
+        </tbody>
+      </table>
+
+      <script src="data.js"></script>
+</body>
+</html>

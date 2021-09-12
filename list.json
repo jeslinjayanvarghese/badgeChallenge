@@ -1,0 +1,94 @@
+{
+    "list":[
+        {
+            "SerialNo":"1",
+            "Name":"Apple",
+            "Quantity":"1",
+            "Unit":"Kg",
+            "Dept":"Fruits",
+            "Notes":"Crunchy"
+
+        },
+        {
+            "SerialNo":"2",
+            "Name":"Orange",
+            "Quantity":"1",
+            "Unit":"Kg",
+            "Dept":"Fruits",
+            "Notes":"Sweet"
+
+        },
+        {
+            "SerialNo":"3",
+            "Name":"Carrots",
+            "Quantity":"1",
+            "Unit":"Kg",
+            "Dept":"Vegetables",
+            "Notes":"Fresh"
+
+        },
+        {
+            "SerialNo":"4",
+            "Name":"Eggs",
+            "Quantity":"10",
+            "Unit":"Nos",
+            "Dept":"Diary",
+            "Notes":"Duck Eggs "
+
+        },
+        {
+            "SerialNo":"5",
+            "Name":"Rice",
+            "Quantity":"5",
+            "Unit":"Kg",
+            "Dept":"Grains",
+            "Notes":"Matta Rice"
+
+        },
+        {
+            "SerialNo":"6",
+            "Name":"Dal",
+            "Quantity":"2",
+            "Unit":"Kg",
+            "Dept":"Lentils",
+            "Notes":"Moong Dal"
+
+        },
+        {
+            "SerialNo":"7",
+            "Name":"Twix",
+            "Quantity":"500",
+            "Unit":"Grams",
+            "Dept":"Chocolates",
+            "Notes":"Crunchy"
+
+        },
+        {
+            "SerialNo":"8",
+            "Name":"Broccoli`   ",
+            "Quantity":"3",
+            "Unit":"Kg",
+            "Dept":"Vegetables",
+            "Notes":"Fresh"
+
+        },
+        {
+            "SerialNo":"9",
+            "Name":"Crackers",
+            "Quantity":"250",
+            "Unit":"Grams",
+            "Dept":"Snacks",
+            "Notes":"Choco Flavour"
+
+        },
+        {
+            "SerialNo":"10",
+            "Name":"Milk",
+            "Quantity":"1",
+            "Unit":"Litre",
+            "Dept":"Diary",
+            "Notes":"Full Fat"
+
+        }
+    ]
+}

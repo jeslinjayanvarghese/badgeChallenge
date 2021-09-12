@@ -1,0 +1,19 @@
+*{
+    margin:5px;
+    padding: 5px;
+}
+body{
+    
+    background-image:url(../bg.jpg);
+    background-size:cover;
+    background-repeat: no-repeat;
+}
+table{
+    background-color: azure;
+    margin: 10px;
+
+}
+td{
+    color:green;
+    padding: 10px;;
+}
